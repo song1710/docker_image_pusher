@@ -4,5 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构 
 #--platform=linux/arm64 xiaoyaliu/alist
-mysql:8.1.0
-halohub/halo:2.10
+#mysql:8.1.0
+#halohub/halo:2.10
+kernelci/build-gcc-8_x86:latest
