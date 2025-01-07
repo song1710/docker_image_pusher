@@ -11,4 +11,5 @@
 #webdevops/azure-metrics-exporter
 #prom/prometheus
 #prom/alertmanager
-mareimorsy/redis-dump:2.8
+#mareimorsy/redis-dump:2.8
+gaofeng0300/redis-dump:latest
