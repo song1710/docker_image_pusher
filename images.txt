@@ -8,6 +8,7 @@
 #halohub/halo:2.10
 #kernelci/build-gcc-8_x86:latest
 #kernelci/gcc-10_x86  
-webdevops/azure-metrics-exporter
-prom/prometheus
-prom/alertmanager
+#webdevops/azure-metrics-exporter
+#prom/prometheus
+#prom/alertmanager
+mareimorsy/redis-dump:2.8
