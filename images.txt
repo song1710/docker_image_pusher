@@ -12,4 +12,6 @@
 #prom/prometheus
 #prom/alertmanager
 #mareimorsy/redis-dump:2.8
-gaofeng0300/redis-dump:latest
+#gaofeng0300/redis-dump:latest
+vaultwarden/server:latest
+nginx:alpine
