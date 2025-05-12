@@ -15,4 +15,5 @@
 #gaofeng0300/redis-dump:latest
 #vaultwarden/server:latest
 #nginx:alpine
-ubuntu:24.10
+#ubuntu:24.10
+gitlab/gitlab-runner:v15.1.1
