@@ -16,4 +16,5 @@
 #vaultwarden/server:latest
 #nginx:alpine
 #ubuntu:24.10
-gitlab/gitlab-runner:v15.1.1
+#gitlab/gitlab-runner:v15.1.1
+maven:3.6-jdk-8-alpine
