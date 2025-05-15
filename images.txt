@@ -19,4 +19,5 @@
 #gitlab/gitlab-runner:v15.1.1
 #maven:3.6-jdk-8-alpine
 #docker.io/library/openjdk:8-jre
-docker.io/library/nginx:1.23.1
+#docker.io/library/nginx:1.23.1
+node:10.16.0
