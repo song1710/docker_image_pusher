@@ -23,11 +23,11 @@
 #node:10.16.0
 #docker.io/library/nginx:1.23.4
 #ruby:2.7
-stackstorm/st2web:3.8
-stackstorm/st2actionrunner:3.8
-stackstorm/st2api:3.8
-stackstorm/st2stream:3.8
-stackstorm/st2scheduler:3.8
+#stackstorm/st2web:3.8
+#stackstorm/st2actionrunner:3.8
+#stackstorm/st2api:3.8
+#stackstorm/st2stream:3.8
+#stackstorm/st2scheduler:3.8
 stackstorm/st2workflowengine:3.8
 stackstorm/st2auth:3.8
 stackstorm/st2actionrunner:3.8
